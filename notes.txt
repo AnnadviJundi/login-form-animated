@@ -1,0 +1,9 @@
+# Login
+<ion-icon name="person" class="person"></ion-icon>
+
+# Close modal
+<ion-icon class="close" name="close"></ion-icon>
+
+# Close login modal
+<ion-icon class="close-login" name="close"></ion-icon>
+
